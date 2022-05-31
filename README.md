@@ -1,7 +1,7 @@
 # LEARNNING PYTHON
 
 >***Whats is this page?***
->This project aims to help students or professionals to learn the main concepts of Python Language
+This project aims to help students or professionals to learn the main concepts of Python Language
 
 ## Authors
 
