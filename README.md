@@ -23,13 +23,13 @@ This project aims to help students or professionals to learn the main concepts o
 
 - Interpreted Language
 - High Level Language
-- Supports Multiple Programming Paradigms
-Imperative or Procedural
-Object Oriented
+- Supports Multiple Programming Paradigms\
+Imperative or Procedural\
+Object Oriented\
 Functional
 - Dynamic Typing
-- Automatic Memory Management
-Garbage Collector
+- Automatic Memory Management\
+Garbage Collector\
 Reference Counting
 - [Create By Guido van Rossum](https://twitter.com/gvanrossum)
 
