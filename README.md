@@ -33,14 +33,7 @@ Garbage Collector\
 Reference Counting
 - [Create By Guido van Rossum](https://twitter.com/gvanrossum)
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/62715900/171282897-f485710a-b5c0-4a81-9ee9-655ec49be239.png)
 
 ## Understanding Python Interpreter Schema
 
