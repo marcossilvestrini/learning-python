@@ -19,6 +19,29 @@ This project aims to help students or professionals to learn the main concepts o
 - [Python Oficial Doc](https://docs.python.org/3/)
 - [Python On Line Editor](https://www.online-python.com/)
 
+## About Python
+
+- Interpreted Language
+- High Level Language
+- Supports Multiple Programming Paradigms
+Imperative or Procedural
+Object Oriented
+Functional
+- Dynamic Typing
+- Automatic Memory Management
+Garbage Collector
+Reference Counting
+- [Create By Guido van Rossum](https://twitter.com/gvanrossum)
+
+
+
+
+
+
+
+
+
+
 ## Understanding Python Interpreter Schema
 
 ![image](https://user-images.githubusercontent.com/62715900/171276928-edf3d9ba-b686-4a42-b920-9b6387336b2f.png)
