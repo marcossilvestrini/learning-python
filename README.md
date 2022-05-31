@@ -16,4 +16,5 @@ This project aims to help students or professionals to learn the main concepts o
 
 ## References
 
-- [foo](foo)
+- [Python Oficial Doc](https://docs.python.org/3/)
+- [Python On LIne Editor](https://www.online-python.com/)
