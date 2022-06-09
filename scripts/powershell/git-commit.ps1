@@ -1,4 +1,4 @@
-$project = "F:\CERTIFICACAO\lpic-2-201-450"
+$project = "F:/Projetos/alura/alura-python/"
 Set-Location $project
 git checkout main
 git pull
