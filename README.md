@@ -41,5 +41,39 @@ Reference Counting
 ## Understanding Python Interpreter Schema
 
 ![image](https://user-images.githubusercontent.com/62715900/171276928-edf3d9ba-b686-4a42-b920-9b6387336b2f.png)
+
+![image](https://user-images.githubusercontent.com/62715900/173715478-9d94ecc2-c71a-4348-b5e8-f839d7a7f6f8.png)
 <https://www.youtube.com/watch?v=VsjJfaUdFO8>
 
+## Function help()
+
+```python
+#Example get help for print function
+>>>help()
+help>print
+```
+
+![image](https://user-images.githubusercontent.com/62715900/173716722-1da20b32-b6bf-4352-abec-38ba3e88cec1.png)
+
+## Function type()
+
+```python
+#Example get type of variable
+name = "Mike"
+number= 10
+
+type(name)
+type(number)
+```
+
+## Function print()
+
+```python
+# Example 1:
+print("Hello, world!")
+
+# Example 2:
+coutry = "Brazil"
+titles = 5
+print("Country", coutry, " World Cups", titles, sep=":")
+```
