@@ -27,13 +27,13 @@ This project aims to help students or professionals to learn the main concepts o
 - Interpreted Language
 - High Level Language
 - Supports Multiple Programming Paradigms\
-Imperative or Procedural\
-Object Oriented\
-Functional
+- Imperative or Procedural\
+- Object Oriented\
+- Functional
 - Dynamic Typing
 - Automatic Memory Management\
-Garbage Collector\
-Reference Counting
+- Garbage Collector\
+- Reference Counting
 - [Create By Guido van Rossum](https://twitter.com/gvanrossum)
 
 ![image](https://user-images.githubusercontent.com/62715900/171282897-f485710a-b5c0-4a81-9ee9-655ec49be239.png)
@@ -72,8 +72,22 @@ type(number)
 # Example 1:
 print("Hello, world!")
 
-# Example 2:
+# Example 2 - Use sep:
 coutry = "Brazil"
 titles = 5
 print("Country", coutry, " World Cups", titles, sep=":")
+
+# Example 3 - Use end:
+fruit = "Orange"
+number = 3
+print("Fruit:", fruit, "Amount:", number, end="!\n")
+```
+
+## Variables (Default Snake_Case)
+
+```python
+#declare a variable
+fruit="Orange"
+int_number=1
+float_number=15.2
 ```
